@@ -1,0 +1,4 @@
+C:\Application\DevPOC\DevPOC\bin\DevPOC.dll
+C:\Application\DevPOC\DevPOC\bin\DevPOC.pdb
+C:\Application\DevPOC\DevPOC\obj\Debug\DevPOC.dll
+C:\Application\DevPOC\DevPOC\obj\Debug\DevPOC.pdb
