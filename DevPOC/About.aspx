@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        DevDemo
+        DevOps Demo 
     </h2>
     <p>
         Ranjeet Singh
