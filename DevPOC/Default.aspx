@@ -8,7 +8,7 @@
         Welcome to DevOPs Demo!
     </h2>
     <p>
-        To learn more about GITHub visit htts://Github.com</a>.
+        To learn more about DevOps</a>.
     </p>
     <p>
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
