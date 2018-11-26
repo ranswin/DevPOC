@@ -5,10 +5,11 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-         DevOPs Demo Singh!
+
+         DevOPs Demo ranjeet singh!
     </h2>
     <p>
-        To learn more about DevOps For Automation</a>.
+        Azure DevOps For Automation</a>.
     </p>
     <p>
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
