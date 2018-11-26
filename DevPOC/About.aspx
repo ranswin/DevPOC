@@ -8,6 +8,6 @@
         DevOps Demo 
     </h2>
     <p>
-        GIT implementation
+        GIT implementation for version control
     </p>
 </asp:Content>
