@@ -5,9 +5,9 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About
+        DevOps Demo For Veresion
     </h2>
     <p>
-        Ranjeet Singh
+        GIT implementation for version control
     </p>
 </asp:Content>
